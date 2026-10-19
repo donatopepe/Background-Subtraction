@@ -1,0 +1,12 @@
+
+# Local agent state and generated build artifacts
+.codegraph/
+*.suo
+*.sdf
+*.opensdf
+*.user
+**/Debug/
+**/Release/
+*.obj
+*.tlog/
+*.lastbuildstate
