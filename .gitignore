@@ -20,3 +20,6 @@
 *.tlog/
 *.lastbuildstate
 x64/
+
+# Build and runtime logs
+*.log
