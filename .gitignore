@@ -10,3 +10,13 @@
 *.obj
 *.tlog/
 *.lastbuildstate
+
+# Visual Studio local/generated artifacts
+*.suo
+*.sdf
+*.opensdf
+*.user
+*.obj
+*.tlog/
+*.lastbuildstate
+x64/
